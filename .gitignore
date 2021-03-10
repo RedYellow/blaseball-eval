@@ -1,1 +1,4 @@
 .ipynb_checkpoints/blaseball_eval-checkpoint.ipynb
+*.csv
+*.json
+sheets/*
